@@ -1,4 +1,4 @@
-# Discord Server Cloner 2x
+# Discord Server Cloner 2024
 
 *Support the project by leaving a :star:*
 
